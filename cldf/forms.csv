@@ -291,7 +291,7 @@ german-15_cold-1,,german,15_cold,kalt,k.a.l.t,k a l t,,Starostin2005,,false,^ k 
 spanish-15_cold-1,,spanish,15_cold,fri.o,f.r.i.o,f r i o,,Starostin2005,,false,^ f . r . i . o $,default
 danish-15_cold-1,,danish,15_cold,kʌlˀ,k.ʌ.lˀ,k ʌ lˀ,,Starostin2005,,false,^ k . ʌ . lˀ $,default
 bulgarian-15_cold-1,,bulgarian,15_cold,studɛn,s.t.u.d.ɛ.n,s t u d ɛ n,,Starostin2005,,false,^ s . t . u . d . ɛ . n $,default
-greek-15_cold-1,,greek,15_cold,p͡sixros,p͡s.i.x.r.o.s,ps i x r o s,,Starostin2005,,false,^ p͡s . i . x . r . o . s $,default
+greek-15_cold-1,,greek,15_cold,p͡sixros,p͡s.i.x.r.o.s,pˢ i x r o s,,Starostin2005,,false,^ p͡s . i . x . r . o . s $,default
 romanian-15_cold-1,,romanian,15_cold,reʧe,r.e.ʧ.e,r e tʃ e,,Starostin2005,,false,^ r . e . ʧ . e $,default
 russian-15_cold-1,,russian,15_cold,xɐlodnɨj,x.ɐ.l.o.d.n.ɨ.j,x ɐ l o d n ɨ j,,Starostin2005,,false,^ x . ɐ . l . o . d . n . ɨ . j $,default
 polish-15_cold-1,,polish,15_cold,xwɔdnɨ,x.w.ɔ.d.n.ɨ,x w ɔ d n ɨ,,Starostin2005,,false,^ x . w . ɔ . d . n . ɨ $,default
@@ -391,7 +391,7 @@ german-20_dry-1,,german,20_dry,trɔkən,t.r.ɔ.k.ə.n,t r ɔ k ə n,,Starostin20
 spanish-20_dry-1,,spanish,20_dry,seko,s.e.k.o,s e k o,,Starostin2005,,false,^ s . e . k . o $,default
 danish-20_dry-1,,danish,20_dry,tɶˀʁ,t.ɶˀ.ʁ,t ɶˀ ʁ,,Starostin2005,,false,^ t . ɶˀ . ʁ $,default
 bulgarian-20_dry-1,,bulgarian,20_dry,sux,s.u.x,s u x,,Starostin2005,,false,^ s . u . x $,default
-greek-20_dry-1,,greek,20_dry,k͡seros,k͡s.e.r.o.s,ks e r o s,,Starostin2005,,false,^ k͡s . e . r . o . s $,default
+greek-20_dry-1,,greek,20_dry,k͡seros,k͡s.e.r.o.s,kˢ e r o s,,Starostin2005,,false,^ k͡s . e . r . o . s $,default
 romanian-20_dry-1,,romanian,20_dry,sek,s.e.k,s e k,,Starostin2005,,false,^ s . e . k $,default
 russian-20_dry-1,,russian,20_dry,suxoj,s.u.x.o.j,s u x o j,,Starostin2005,,false,^ s . u . x . o . j $,default
 polish-20_dry-1,,polish,20_dry,suxɨ,s.u.x.ɨ,s u x ɨ,,Starostin2005,,false,^ s . u . x . ɨ $,default
@@ -568,7 +568,7 @@ german-29_fish-1,,german,29_fish,fɪʃ,f.ɪ.ʃ,f ɪ ʃ,,Starostin2005,,false,^ f
 spanish-29_fish-1,,spanish,29_fish,peskaðo,p.e.s.k.a.ð.o,p e s k a ð o,,Starostin2005,,false,^ p . e . s . k . a . ð . o $,default
 danish-29_fish-1,,danish,29_fish,fesg,f.e.s.g,f e s g,,Starostin2005,,false,^ f . e . s . g $,default
 bulgarian-29_fish-1,,bulgarian,29_fish,ribə,r.i.b.ə,r i b ə,,Starostin2005,,false,^ r . i . b . ə $,default
-greek-29_fish-1,,greek,29_fish,p͡sari,p͡s.a.r.i,ps a r i,,Starostin2005,,false,^ p͡s . a . r . i $,default
+greek-29_fish-1,,greek,29_fish,p͡sari,p͡s.a.r.i,pˢ a r i,,Starostin2005,,false,^ p͡s . a . r . i $,default
 armenian-29_fish-1,,armenian,29_fish,ʣuk,ʣ.u.k,dz u k,,Starostin2005,,false,^ ʣ . u . k $,default
 romanian-29_fish-1,,romanian,29_fish,peʃte,p.e.ʃ.t.e,p e ʃ t e,,Starostin2005,,false,^ p . e . ʃ . t . e $,default
 russian-29_fish-1,,russian,29_fish,rɨbə,r.ɨ.b.ə,r ɨ b ə,,Starostin2005,,false,^ r . ɨ . b . ə $,default
@@ -873,7 +873,7 @@ german-45_know-1,,german,45_know,vɪsən,v.ɪ.s.ə.n,v ɪ s ə n,,Starostin2005,
 spanish-45_know-1,,spanish,45_know,konoθer,k.o.n.o.θ.e.r,k o n o θ e r,,Starostin2005,,false,^ k . o . n . o . θ . e . r $,default
 danish-45_know-1,,danish,45_know,viːðə,v.iː.ð.ə,v iː ð ə,,Starostin2005,,false,^ v . iː . ð . ə $,default
 bulgarian-45_know-1,,bulgarian,45_know,znajə,z.n.a.j.ə,z n a j ə,,Starostin2005,,false,^ z . n . a . j . ə $,default
-greek-45_know-1,,greek,45_know,k͡sero,k͡s.e.r.o,ks e r o,,Starostin2005,,false,^ k͡s . e . r . o $,default
+greek-45_know-1,,greek,45_know,k͡sero,k͡s.e.r.o,kˢ e r o,,Starostin2005,,false,^ k͡s . e . r . o $,default
 armenian-45_know-1,,armenian,45_know,gitɛnɑl,g.i.t.ɛ.n.ɑ.l,g i t ɛ n ɑ l,,Starostin2005,,false,^ g . i . t . ɛ . n . ɑ . l $,default
 romanian-45_know-1,,romanian,45_know,ʃti,ʃ.t.i,ʃ t i,,Starostin2005,,false,^ ʃ . t . i $,default
 russian-45_know-1,,russian,45_know,znatʲ,z.n.a.tʲ,z n a tʲ,,Starostin2005,,false,^ z . n . a . tʲ $,default
@@ -983,7 +983,7 @@ german-50_louse-1,,german,50_louse,laus,l.au.s,l au s,,Starostin2005,,false,^ l 
 spanish-50_louse-1,,spanish,50_louse,pjoxo,p.j.o.x.o,p j o x o,,Starostin2005,,false,^ p . j . o . x . o $,default
 danish-50_louse-1,,danish,50_louse,luˀs,l.uˀ.s,l uˀ/u s,,Starostin2005,,false,^ l . uˀ . s $,default
 bulgarian-50_louse-1,,bulgarian,50_louse,vɤʃkə,v.ɤ.ʃ.k.ə,v ɤ ʃ k ə,,Starostin2005,,false,^ v . ɤ . ʃ . k . ə $,default
-greek-50_louse-1,,greek,50_louse,p͡sira,p͡s.i.r.a,ps i r a,,Starostin2005,,false,^ p͡s . i . r . a $,default
+greek-50_louse-1,,greek,50_louse,p͡sira,p͡s.i.r.a,pˢ i r a,,Starostin2005,,false,^ p͡s . i . r . a $,default
 armenian-50_louse-1,,armenian,50_louse,voʧʰil,v.o.ʧʰ.i.l,v o tʃʰ i l,,Starostin2005,,false,^ v . o . ʧʰ . i . l $,default
 romanian-50_louse-1,,romanian,50_louse,pəduke,p.ə.d.u.k.e,p ə d u k e,,Starostin2005,,false,^ p . ə . d . u . k . e $,default
 russian-50_louse-1,,russian,50_louse,voʃ,v.o.ʃ,v o ʃ,,Starostin2005,,false,^ v . o . ʃ $,default

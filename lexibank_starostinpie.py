@@ -66,7 +66,8 @@ class Dataset(BaseDataset):
                     Parameter_ID=concepts[wl[idx, 'concept']],
                     Value=wl[idx, 'ipa'],
                     Form='.'.join(wl[idx, 'tokens']),
-                    Source='Starostin2005'
+                    Source='Starostin2005',
+                    Loan=True if wl[idx, 'cogid'] < 0 else False
                     )
             args.writer.add_cognate(
                     lexeme=lexeme,
