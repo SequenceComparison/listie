@@ -1,8 +1,16 @@
 # CLDF Dataset derived from Starostin's "Indo-European files in DBV/VAR" from 2005
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/sequencecomparison/starostinpie/workflows/CLDF-validation/badge.svg)](https://github.com/sequencecomparison/starostinpie/actions?query=workflow%3ACLDF-validation)
 
-> Starostin, S. A. (2005): Indo-European files in DBF/VAR. Moscow.
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Starostin, S. A. (2005): Indo-European files in DBF/VAR. Moscow.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-By-4.0 license
 
@@ -14,6 +22,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
+[![CLDF validation](https://github.com/sequencecomparison/starostinpie/workflows/CLDF-validation/badge.svg)](https://github.com/sequencecomparison/starostinpie/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -36,8 +45,14 @@ Conceptlists in Concepticon:
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Johann-Mattis List | @LinguList | maintainer | Author
-Starostin, S. A. | | original data collection | DataCollector 
- 
+Johann-Mattis List | @LinguList | maintainer | Other
+Starostin, S. A. | | original data collection | Author
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
