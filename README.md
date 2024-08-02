@@ -1,6 +1,6 @@
 # CLDF Dataset derived from Starostin's "Indo-European files in DBV/VAR" from 2005
 
-[![CLDF validation](https://github.com/sequencecomparison/starostinpie/workflows/CLDF-validation/badge.svg)](https://github.com/sequencecomparison/starostinpie/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/SequenceComparison/starostinpie/workflows/CLDF-validation/badge.svg)](https://github.com/SequenceComparison/starostinpie/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -22,15 +22,15 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![CLDF validation](https://github.com/sequencecomparison/starostinpie/workflows/CLDF-validation/badge.svg)](https://github.com/sequencecomparison/starostinpie/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/SequenceComparison/starostinpie/workflows/CLDF-validation/badge.svg)](https://github.com/SequenceComparison/starostinpie/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 19
-- **Concepts:** 110
+- **Varieties:** 19 (linked to 19 different Glottocodes)
+- **Concepts:** 110 (linked to 110 different Concepticon concept sets)
 - **Lexemes:** 2,172
 - **Sources:** 1
 - **Synonymy:** 1.06
@@ -38,14 +38,14 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 0.25
 - **Invalid lexemes:** 0
 - **Tokens:** 9,051
-- **Segments:** 215 (0 BIPA errors, 0 CTLS sound class errors, 215 CLTS modified)
+- **Segments:** 215 (0 BIPA errors, 0 CLTS sound class errors, 215 CLTS modified)
 - **Inventory size (avg):** 41.95
 
 # Contributors
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Johann-Mattis List | @LinguList | maintainer | Other
+Johann-Mattis List | @LinguList | maintainer | Editor
 Starostin, S. A. | | original data collection | Author
 
 
